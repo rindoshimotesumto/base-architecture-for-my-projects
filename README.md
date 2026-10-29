@@ -1,0 +1,1 @@
+# base-architecture-for-my-projects
